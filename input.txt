@@ -1,0 +1,5 @@
+(2_add_5_sub_2)_mul_3_mul_2_div_10_fact;
+_cos(0);
+2_pow_3;
+_if(2>>9)2_add_9;
+_else 2_mul_9;
